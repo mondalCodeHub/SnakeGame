@@ -22,7 +22,7 @@ A snake game is a simple game in which a snake moves around a box trying to eat 
 
 
 ## Project reference
-- CodeWithHarry(YouTube)
+- CodeWithHarry (YouTube)
 - W3Schools
 
 ## Note
