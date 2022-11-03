@@ -10,14 +10,19 @@ A snake game is a simple game in which a snake moves around a box trying to eat 
 **HTML** **CSS** and **JavaScipt**  
 
 
+
 ## Author
 
 - Arup Mondal [@mondalCodeHub](https://www.github.com/mondalCodeHub)
 
 
 ## Screenshot
+![Screenshot (2137)](https://user-images.githubusercontent.com/88100576/199748018-800f0192-d8fd-4017-9b14-b8c3a02cc2fb.png)
+
+
+
 ## Project reference
-- CodeWithHarry
+- CodeWithHarry(YouTube)
 - W3Schools
 
 ## Note
